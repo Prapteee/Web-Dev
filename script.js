@@ -1,1 +1,1 @@
-This is first line of Code in JS
+This is Second line of Code in JavaScript
